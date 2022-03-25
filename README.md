@@ -13,10 +13,15 @@
 
 ## Whats the point?
 
-I created this app to transfer files from my phone to my laptop.  Once the file is selected I wget it from my laptop
+I created this app to transfer files from my phone to my laptop.  Once the file is selected I wget it from my laptop.  
+Unlike email and cloud file transfer, this method is free and has no file size limitations.
 ```bash
 wget http://192.168.1.233:8000
 ```
+
+## How does it work
+
+This was implemented using my http server library.  https://github.com/stoned-ape/cpp\_http\_server
 
 
 
