@@ -21,7 +21,7 @@ wget http://192.168.1.233:8000
 
 ## How does it work
 
-This was implemented using my http server library.  https://github.com/stoned-ape/cpp\_http\_server
+This was implemented using my http server library.  https://github.com/stoned-ape/cpp_http_server
 
 
 
